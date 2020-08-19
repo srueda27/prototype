@@ -5,21 +5,14 @@ body {
     background-color: gainsboro;
 }
 
-.main {
-    position: relative;
-    background-color: #27292D;
-    padding-bottom: 40px;
-}
-
-.appbar {
-    box-shadow: 1px 5px 10px black;
-}
-
-.center {
-    margin: auto;
-    display: block;
-}
-
 svg {
     margin: 30px auto !important;
+}
+
+.link {
+    position: absolute;
+    bottom: 200px;
+    width: 200px;
+    height: 40px;
+    left: 80px;
 }

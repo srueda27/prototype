@@ -1,0 +1,26 @@
+span {
+    margin: 25px 15px;
+    display: block;
+    width: 183px;
+    height: 26px;
+    color: rgba(255,255,255,0.9);
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;      
+}
+
+.connect {
+    position: absolute;
+    top: 310px;
+    left: 30px;
+    width: 300px;
+    height: 38px;
+}
+
+#segundo {
+    top: 503px;
+}
+
+#tercero {
+    top: 697px;
+}

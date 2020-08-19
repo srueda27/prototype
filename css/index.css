@@ -3,10 +3,14 @@
     position: relative;
 }
 
+.header-email img {
+    width: 360px;
+}
+
 .header-email .karenRossi {
     position: absolute;
-    left: 15px;
-    top: 90px;
+    left: 5px;
+    top: 63px;
     width: 331px;
     height: 19px;
     color: rgba(0,0,0,0.87);
@@ -17,8 +21,8 @@
 
 .header-email .torre {
     position: absolute;
-    left: 68px;
-    top: 140px;
+    left: 52px;
+    top: 114px;
     width: 34px;
     height: 16px;
     color: rgba(0,0,0,0.87);
@@ -35,12 +39,16 @@
     margin: auto;
 }
 
+.content-email img {
+    width: 338px;
+}
+
 .connect {
     position: absolute;
-    width: 200px;
+    width: 137px;
     height: 36px;
-    bottom: 82px;
-    left: 70px;
+    bottom: 94px;
+    left: 112px;
 }
 
 .text {

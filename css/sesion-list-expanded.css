@@ -1,0 +1,43 @@
+.main > img {
+    width: 328px;
+}
+
+.link {
+    position: absolute;
+    top: 310px;
+    left: 94px;
+    width: 173px;
+    height: 38px;
+}
+
+.small-link {
+    position: absolute;
+    top: 397px;
+    left: 227px;
+    width: 84px;
+    height: 35px;
+}
+
+#segundo-small {
+    top: 550px;
+}
+
+#tercer-small {
+    top: 702px;
+}
+
+#segundo {
+    top: 942px;
+}
+
+#tercero {
+    top: 1136px;
+}
+
+#cuarto {
+    top: 1330px;
+}
+
+#quinto {
+    top: 1550px;
+}

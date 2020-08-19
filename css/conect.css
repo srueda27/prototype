@@ -1,18 +1,35 @@
-body {
-    width: 360px;
-    max-height: 640px;
-    margin: 10px auto;
-    background-color: gainsboro;
-}
-
 svg {
     margin: 30px auto !important;
 }
 
+.main > img {
+    width: 360px;
+}
+
+img.small {
+    width: 328px;
+}
+
 .link {
     position: absolute;
-    bottom: 200px;
-    width: 200px;
-    height: 40px;
-    left: 80px;
+    top: 668px;
+    width: 176px;
+    height: 38px;
+    left: 93px;
+}
+
+#segundo {
+    top: 864px;
+}
+
+#tercero {
+    top: 1056px;
+}
+
+#cuarto {
+    top: 1251px;
+}
+
+#quinto {
+    top: 1474px;
 }

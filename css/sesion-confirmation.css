@@ -1,0 +1,38 @@
+.button {
+    padding-top: 8px;
+    width: 230px !important;
+}
+
+span {
+    margin: 20px 15px 4px;
+    display: block;
+    width: fit-content;
+    height: fit-content;
+    color: rgba(255,255,255,0.9);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+img.center {
+    width: 328px;
+    margin: 15px auto !important;
+}
+
+p {
+    width: 328px;
+    height: 60px;
+    color: rgba(255,255,255,0.65);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-left: 15px;
+}
+
+a {
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    bottom: 40px;
+    left: 66px;
+}

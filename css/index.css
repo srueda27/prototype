@@ -34,7 +34,7 @@
 .content-email {
     position: relative;
     width: 360px;
-    height: 450px;
+    padding-bottom: 8px;
     background-color: white;
     margin: auto;
 }

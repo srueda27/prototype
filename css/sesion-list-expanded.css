@@ -1,5 +1,6 @@
 .main > img {
     width: 328px;
+    border-radius: 5px;
 }
 
 .link {

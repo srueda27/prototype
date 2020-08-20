@@ -3,10 +3,6 @@ span {
     width: fit-content;
 }
 
-.appbar {
-    position: relative;
-}
-
 .appbar a {
     position: absolute;
     width: 105px;

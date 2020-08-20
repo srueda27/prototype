@@ -18,6 +18,10 @@ body {
 
 .appbar {
     box-shadow: 1px 5px 10px black;
+    position: fixed;
+    background-color: #27292D;
+    z-index: 2;
+    top: 0;
 }
 
 .appbar img {

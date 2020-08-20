@@ -4,6 +4,7 @@ svg {
 
 .main > img {
     width: 360px;
+    margin-top: 59px;
 }
 
 img.small {
@@ -12,24 +13,24 @@ img.small {
 
 .link {
     position: absolute;
-    top: 668px;
+    top: 608px;
     width: 176px;
     height: 38px;
     left: 93px;
 }
 
 #segundo {
-    top: 864px;
+    top: 803px;
 }
 
 #tercero {
-    top: 1056px;
+    top: 996px;
 }
 
 #cuarto {
-    top: 1251px;
+    top: 1191px;
 }
 
 #quinto {
-    top: 1474px;
+    top: 1411px;
 }

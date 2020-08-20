@@ -23,8 +23,8 @@
     position: absolute;
     left: 52px;
     top: 114px;
-    width: 34px;
-    height: 16px;
+    width: fit-content;
+    height: fit-content;
     color: rgba(0,0,0,0.87);
     font-size: 13px;
     font-weight: 400;
